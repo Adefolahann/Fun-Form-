@@ -20,6 +20,10 @@
 				box-shadow: 0 0 70px 4px #e3effe;
 				border-radius: 15px;
 }
+
+input:focus {
+ border: light purple ;
+}
 .input-box{
 				position :relative;
 				width: 100%;
