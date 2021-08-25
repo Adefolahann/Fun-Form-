@@ -22,7 +22,7 @@
 }
 
 input:focus {
- border: light purple ;
+ border: red ;
 }
 .input-box{
 				position :relative;
